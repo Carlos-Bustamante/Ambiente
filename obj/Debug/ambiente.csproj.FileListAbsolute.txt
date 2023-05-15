@@ -1,0 +1,11 @@
+D:\codigo\.Net\ambiente\bin\Debug\ambiente.exe.config
+D:\codigo\.Net\ambiente\bin\Debug\ambiente.exe
+D:\codigo\.Net\ambiente\bin\Debug\ambiente.pdb
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.csproj.AssemblyReference.cache
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.csproj.SuggestedBindingRedirects.cache
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.Form1.resources
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.Properties.Resources.resources
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.csproj.GenerateResource.cache
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.csproj.CoreCompileInputs.cache
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.exe
+D:\codigo\.Net\ambiente\obj\Debug\ambiente.pdb
